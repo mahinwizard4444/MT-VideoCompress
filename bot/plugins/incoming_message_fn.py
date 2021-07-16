@@ -64,7 +64,7 @@ async def incoming_start_message_f(bot, update):
             user = await client.get_chat_member(UPDATES_CHANNEL, message.chat.id)
             if user.status == "kicked":
                 await message.reply_text(
-                    text="Sorry Sir, You are Banned to use me. Contact my [Support Group](https://t.me/linux_repo).",
+                    text="Sorry Sir, You are Banned to use me. Contact my [Support Group](https://t.me/Mo_Tech_Group).",
                     parse_mode="markdown",
                     disable_web_page_preview=True
                 )
@@ -75,7 +75,7 @@ async def incoming_start_message_f(bot, update):
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton("Join Updates Channel", url=f"https://t.me/{UPDATES_CHANNEL}")
+                            InlineKeyboardButton("💥Join Updates Channel💥", url=f"https://t.me/{UPDATES_CHANNEL}")
                         ]
                     ]
                 ),
@@ -84,7 +84,7 @@ async def incoming_start_message_f(bot, update):
             return
         except Exception:
             await message.reply_text(
-                text="Something went Wrong. Contact my [Support Group](https://t.me/linux_repo).",
+                text="Something went Wrong. Contact my [Support Group](https://t.me/Mo_Tech_Group).",
                 parse_mode="markdown",
                 disable_web_page_preview=True
             )
@@ -95,10 +95,12 @@ async def incoming_start_message_f(bot, update):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('Updates Channel', url='https://t.me/Discovery_Updates')
+                    InlineKeyboardButton('🗣️Group', url='https://t.me/mo_Tech_Group'),
+                    InlineKeyboardButton('📢Channel', url='https://t.me/Mo_Tech_YT/176'),
+                    InlineKeyboardButton('✳️Source', url='https://github.com/MRK-YT/MT-VideoCompress')
                 ],
                 [
-                    InlineKeyboardButton('Support Group', url='https://t.me/linux_repo')
+                    InlineKeyboardButton('🖥️Tutorial Video🖥️', url='https://t.me/Mo_Tech_YT')
                 ]
             ]
         ),
