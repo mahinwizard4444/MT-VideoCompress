@@ -100,7 +100,7 @@ async def incoming_start_message_f(bot, update):
                     InlineKeyboardButton('✳️Source', url='https://github.com/MRK-YT/MT-VideoCompress')
                 ],
                 [
-                    InlineKeyboardButton('🖥️Tutorial Video🖥️', url='https://t.me/Mo_Tech_YT')
+                    InlineKeyboardButton('🖥️Tutorial Video🖥️', url='https://youtu.be/lb-JJLqyww4')
                 ]
             ]
         ),
@@ -140,7 +140,7 @@ async def incoming_compress_message_f(bot, update):
         except Exception:
             await bot.send_message(
                 chat_id=update.chat.id,
-                text="Something went Wrong. Contact my [Support Group](https://t.me/linux_repo).",
+                text="Something went Wrong. Contact my [Support Group](https://t.me/Mo_Tech_Group).",
                 parse_mode="markdown",
                 disable_web_page_preview=True
             )
