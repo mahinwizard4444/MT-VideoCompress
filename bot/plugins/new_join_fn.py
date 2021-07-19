@@ -63,7 +63,7 @@ async def help_message_f(client, message):
             return
         except Exception:
             await message.reply_text(
-                text="Something went Wrong. Contact my [Support Group](https://t.me/linux_repo).",
+                text="Something went Wrong. Contact my [Support Group](https://t.me/mo_tech_group).",
                 parse_mode="markdown",
                 disable_web_page_preview=True
             )
@@ -79,7 +79,7 @@ async def help_message_f(client, message):
                     InlineKeyboardButton('Bot List📃', url='https://t.me/Mo_Tech_YT/176')
                 ],
                 [
-                    InlineKeyboardButton('🖥️ Tutorial Video 🖥️', url='https://t.me/mo_Tech_YT')
+                    InlineKeyboardButton('🖥️ Tutorial Video 🖥️', url='https://youtu.be/lb-JJLqyww4')
                 ]
             ]
         ),
