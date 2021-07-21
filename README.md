@@ -11,7 +11,7 @@
 ![GitHub](https://img.shields.io/github/license/MRK-YT/MT-VideoCompress)
 [![Bot Support](https://img.shields.io/badge/Video%20Compress%20Bot-support%20group-blue)](https://t.me/mo_tech_yt)
 
-A Telegram Video Compressor Bot By [@AbirHasan2005](https://t.me/linux_repo). **This bot works for all!** No need to define each user IDs to use bot. Also works in Group.
+A Telegram Video Compressor Bot By [𝗠𝗛𝗗 𝗧𝗛𝗔𝗡𝗭𝗘𝗘𝗥](https://t.me/mhd_thanzeer). **This bot works for all!** No need to define each user IDs to use bot. Also works in Group.
 
 ### Special Features:
 - Bot's Live Status on Channel
@@ -21,7 +21,7 @@ A Telegram Video Compressor Bot By [@AbirHasan2005](https://t.me/linux_repo). **
 	- Can Ban-Unban Manually
 	- Can see numbers users in DB
 
-* If you need more help to Deploy Feel Free to ask in [Support Group](https://t.me/linux_repo).
+* If you need more help to Deploy Feel Free to ask in [Support Group](https://t.me/wolfpackmedia).
 
 ### Demo Bot:
 <a href="https://t.me/MT_VideoCompress_Bot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
