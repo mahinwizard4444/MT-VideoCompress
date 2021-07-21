@@ -6,7 +6,7 @@ from bot.get_cfg import get_config
 
 
 class Localisation:
-    START_TEXT = "Hello, \n\nThis is a Telegram <b>Video Compress Bot</b>. \n\n<b>Please send me any Telegram big video file I will compress it as s small video file!</b> \n\n/help for more details. \n\nSupport Group: @Mo_Tech_Group"
+    START_TEXT = "ＨＥＹ ʙɪᴛᴄʜ  How are You!!, \n\n𝐌𝐘  𝐎𝐖𝐍𝐄𝐑 & 𝐁𝐎𝐒𝐒 [ @mhd_thanzeer ]﻿. \n\n<b> 😌 Ｙａａａ　Ｈｏｏｏｏｏ 💥 𝙄 𝙖𝙢 𝘼 𝘽𝙞𝙜 𝙁𝙞𝙡𝙚 𝘾𝙤𝙢𝙥𝙧𝙚𝙨𝙨 𝘽𝙤𝙩 𝙇𝙞𝙠𝙚 8️⃣𝙂𝘽 </b> \n\n/help for more details. \n\nMovies Group: @wolfpackmedia"
 
     ABS_TEXT = " Please don't be selfish."
     
@@ -23,9 +23,9 @@ class Localisation:
     
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.95GB due to Telegram API limitations."
     
-    COMPRESS_SUCCESS = "📥 Downloaded in {}\n\n📀 Compressed in {}\n\n📤 Uploaded in {}\n\nBy @Mo_Tech_YT"
+    COMPRESS_SUCCESS = "📥 Downloaded in {}\n\n📀 Compressed in {}\n\n📤 Uploaded in {}\n\nBy @mhd_thanzeer"
 
-    COMPRESS_PROGRESS = "⏳ ETA: {}\n🚀 Progress: {}%"
+    COMPRESS_PROGRESS = "⏰ 𝐄𝐬𝐭𝐢𝐦𝐚𝐭𝐢𝐨𝐧: {}\n🚀 Progress: {}%"
 
     SAVED_CUSTOM_THUMB_NAIL = "Custom video / file thumbnail saved. This image will be used in the video / file."
     
