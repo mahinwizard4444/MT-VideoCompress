@@ -64,7 +64,7 @@ async def incoming_start_message_f(bot, update):
             user = await client.get_chat_member(UPDATES_CHANNEL, message.chat.id)
             if user.status == "kicked":
                 await message.reply_text(
-                    text="Sorry Sir, You are Banned to use me. Contact my [Support Group](https://t.me/Mo_Tech_Group).",
+                    text="Sorry Sir, You are Banned to use me. Contact my [Support](https://t.me/mhd_thanzeer).",
                     parse_mode="markdown",
                     disable_web_page_preview=True
                 )
@@ -84,7 +84,7 @@ async def incoming_start_message_f(bot, update):
             return
         except Exception:
             await message.reply_text(
-                text="Something went Wrong. Contact my [Support Group](https://t.me/Mo_Tech_Group).",
+                text="Something went Wrong. Contact me [Support](https://t.me/mhd_thanzeer).",
                 parse_mode="markdown",
                 disable_web_page_preview=True
             )
@@ -95,12 +95,12 @@ async def incoming_start_message_f(bot, update):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('🗣️Group', url='https://t.me/mo_Tech_Group'),
-                    InlineKeyboardButton('📢Channel', url='https://t.me/Mo_Tech_YT/176'),
-                    InlineKeyboardButton('✳️Source', url='https://github.com/MRK-YT/MT-VideoCompress')
+                    InlineKeyboardButton('🗣️Group', url='https://t.me/wolfpackmedia'),
+                    InlineKeyboardButton('📢Channel', url='https://t.me/joinchat/ttmNCbSNSyM2NWU1'),
+                    InlineKeyboardButton('❌️Source', url='https://telegra.ph/file/92370238b1e19ba5fbc8c.jpg')
                 ],
                 [
-                    InlineKeyboardButton('🖥️Tutorial Video🖥️', url='https://youtu.be/lb-JJLqyww4')
+                    InlineKeyboardButton('❌️ 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 ❌️', url='https://telegra.ph/file/c63b0a4256c7051a87a37.jpg')
                 ]
             ]
         ),
@@ -140,7 +140,7 @@ async def incoming_compress_message_f(bot, update):
         except Exception:
             await bot.send_message(
                 chat_id=update.chat.id,
-                text="Something went Wrong. Contact my [Support Group](https://t.me/Mo_Tech_Group).",
+                text="Something went Wrong. Contact my [Support](https://t.me/mhd_thanzeer).",
                 parse_mode="markdown",
                 disable_web_page_preview=True
             )
@@ -149,7 +149,7 @@ async def incoming_compress_message_f(bot, update):
         try:
             await bot.send_message(
                 chat_id=update.chat.id,
-                text="🤬 Reply to telegram media 🤬",
+                text="🥵 Reply to telegram media 🥵",
                 reply_to_message_id=update.message_id
             )
         except:
@@ -165,7 +165,7 @@ async def incoming_compress_message_f(bot, update):
                 try:
                     await bot.send_message(
                         chat_id=update.chat.id,
-                        text="🤬 Value should be 10 to 90",
+                        text="🥵 Value should be 10 to 90",
                         reply_to_message_id=update.message_id
                     )
                     return
@@ -448,11 +448,11 @@ async def incoming_cancel_message_f(bot, update):
     if os.path.exists(status):
         inline_keyboard = []
         ikeyboard = []
-        ikeyboard.append(InlineKeyboardButton("Yes 🚫", callback_data=("fuckingdo").encode("UTF-8")))
-        ikeyboard.append(InlineKeyboardButton("No 🤗", callback_data=("fuckoff").encode("UTF-8")))
+        ikeyboard.append(InlineKeyboardButton("Yes ✅️", callback_data=("fuckingdo").encode("UTF-8")))
+        ikeyboard.append(InlineKeyboardButton("No ❌️", callback_data=("fuckoff").encode("UTF-8")))
         inline_keyboard.append(ikeyboard)
         reply_markup = InlineKeyboardMarkup(inline_keyboard)
-        await update.reply_text("Are you sure? 🚫 This will stop the compression!", reply_markup=reply_markup,
+        await update.reply_text("Are you sure? ✅️ This will stop the compression!", reply_markup=reply_markup,
                                 quote=True)
     else:
         delete_downloads()
