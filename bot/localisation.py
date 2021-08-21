@@ -6,7 +6,7 @@ from bot.get_cfg import get_config
 
 
 class Localisation:
-    START_TEXT = "ＨＥＹ ʙɪᴛᴄʜ  How are You!!, \n\n𝐌𝐘  𝐎𝐖𝐍𝐄𝐑 & 𝐁𝐎𝐒𝐒 [ @mhd_thanzeer ]﻿. \n\n<b> 😌 Ｙａａａ　Ｈｏｏｏｏｏ 💥 𝙄 𝙖𝙢 𝘼 𝘽𝙞𝙜 𝙁𝙞𝙡𝙚 𝘾𝙤𝙢𝙥𝙧𝙚𝙨𝙨 𝘽𝙤𝙩 𝙇𝙞𝙠𝙚 8️⃣𝙂𝘽 </b> \n\n/help for more details. \n\nMovies Group: @wolfpackmedia"
+    START_TEXT = "ＨＥＹ ʙɪᴛᴄʜ  How are You!!, \n\n𝐌𝐘  𝐎𝐖𝐍𝐄𝐑 & 𝐁𝐎𝐒𝐒 [ @Jackbro007 ]﻿. \n\n<b> 😌 Ｙａａａ　Ｈｏｏｏｏｏ 💥 𝙄 𝙖𝙢 𝘼 𝘽𝙞𝙜 𝙁𝙞𝙡𝙚 𝘾𝙤𝙢𝙥𝙧𝙚𝙨𝙨 𝘽𝙤𝙩 𝙇𝙞𝙠𝙚 8️⃣𝙂𝘽 </b> \n\n/help for more details. \n\nMovies Group: @onlymovie76"
 
     ABS_TEXT = " Please don't be selfish."
     
