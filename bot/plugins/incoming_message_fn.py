@@ -64,7 +64,7 @@ async def incoming_start_message_f(bot, update):
             user = await client.get_chat_member(UPDATES_CHANNEL, message.chat.id)
             if user.status == "kicked":
                 await message.reply_text(
-                    text="Sorry Sir, You are Banned to use me. Contact my [Support](https://t.me/mhd_thanzeer).",
+                    text="Sorry Sir, You are Banned to use me. Contact my [Support](https://t.me/Jackbro007).",
                     parse_mode="markdown",
                     disable_web_page_preview=True
                 )
@@ -84,7 +84,7 @@ async def incoming_start_message_f(bot, update):
             return
         except Exception:
             await message.reply_text(
-                text="Something went Wrong. Contact me [Support](https://t.me/mhd_thanzeer).",
+                text="Something went Wrong. Contact me [Support](https://t.me/Jackbro007).",
                 parse_mode="markdown",
                 disable_web_page_preview=True
             )
@@ -95,8 +95,8 @@ async def incoming_start_message_f(bot, update):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('🗣️Group', url='https://t.me/wolfpackmedia'),
-                    InlineKeyboardButton('📢Channel', url='https://t.me/joinchat/ttmNCbSNSyM2NWU1'),
+                    InlineKeyboardButton('🗣️Group', url='https://t.me/onlymovie76'),
+                    InlineKeyboardButton('📢Channel', url='https://t.me/M76Links'),
                     InlineKeyboardButton('❌️Source', url='https://telegra.ph/file/92370238b1e19ba5fbc8c.jpg')
                 ],
                 [
