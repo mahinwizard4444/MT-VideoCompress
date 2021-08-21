@@ -1,15 +1,4 @@
 # VideoCompress
-[𝗠𝗛𝗗 𝗧𝗛𝗔𝗡𝗭𝗘𝗘𝗥](https://t.me/mhd_thanzeer)
-[𝗠𝗛𝗗 𝗧𝗛𝗔𝗡𝗭𝗘𝗘𝗥](https://t.me/mhd_thanzeer)
-[𝗠𝗛𝗗 𝗧𝗛𝗔𝗡𝗭𝗘𝗘𝗥](https://t.me/mhd_thanzeer)
-[𝗠𝗛𝗗 𝗧𝗛𝗔𝗡𝗭𝗘𝗘𝗥](https://t.me/mhd_thanzeer)
-[𝗠𝗛𝗗 𝗧𝗛𝗔𝗡𝗭𝗘𝗘𝗥](https://t.me/mhd_thanzeer)
-[𝗠𝗛𝗗 𝗧𝗛𝗔𝗡𝗭𝗘𝗘𝗥](https://t.me/mhd_thanzeer)
-[𝗠𝗛𝗗 𝗧𝗛𝗔𝗡𝗭𝗘𝗘𝗥](https://t.me/mhd_thanzeer)
-[𝗠𝗛𝗗 𝗧𝗛𝗔𝗡𝗭𝗘𝗘𝗥](https://t.me/mhd_thanzeer)
-[𝗠𝗛𝗗 𝗧𝗛𝗔𝗡𝗭𝗘𝗘𝗥](https://t.me/mhd_thanzeer)
-[𝗠𝗛𝗗 𝗧𝗛𝗔𝗡𝗭𝗘𝗘𝗥](https://t.me/mhd_thanzeer)
-[𝗠𝗛𝗗 𝗧𝗛𝗔𝗡𝗭𝗘𝗘𝗥](https://t.me/mhd_thanzeer)
 
 A Telegram Video Compressor Bot By [𝗠𝗛𝗗 𝗧𝗛𝗔𝗡𝗭𝗘𝗘𝗥](https://t.me/mhd_thanzeer). **This bot works for all!** No need to define each user IDs to use bot. Also works in Group.
 
