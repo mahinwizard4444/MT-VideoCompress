@@ -43,7 +43,7 @@ async def help_message_f(client, message):
             user = await client.get_chat_member(UPDATES_CHANNEL, message.chat.id)
             if user.status == "kicked":
                await message.reply_text(
-                   text="Sorry Sir, You are Banned to use me. Contact [𝗠𝗛𝗗 𝗧𝗛𝗔𝗡𝗭𝗘𝗘𝗥](https://t.me/mhd_thanzeer).",
+                   text="Sorry Sir, You are Banned to use me. Contact [𝗝𝗔𝗖𝗞𝗕𝗥𝗢](https://t.me/Jackbro007).",
                    parse_mode="markdown",
                    disable_web_page_preview=True
                )
@@ -63,7 +63,7 @@ async def help_message_f(client, message):
             return
         except Exception:
             await message.reply_text(
-                text="Something went Wrong. Contact [𝗠𝗛𝗗 𝗧𝗛𝗔𝗡𝗭𝗘𝗘𝗥](https://t.me/mhd_thanzeer).",
+                text="Something went Wrong. Contact [𝗝𝗔𝗖𝗞𝗕𝗥𝗢](https://t.me/Jackbro007).",
                 parse_mode="markdown",
                 disable_web_page_preview=True
             )
@@ -74,9 +74,9 @@ async def help_message_f(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('𝗠𝗼𝘃𝗶𝗲𝘀', url='https://t.me/wolfpackmedia'),
-                    InlineKeyboardButton('𝗢𝗡𝗪𝗘𝗥', url='https://t.me/mhd_thanzeer'),
-                    InlineKeyboardButton('GROUP', url='https://t.me/wolfpackmedia')
+                    InlineKeyboardButton('𝗚𝗥𝗢𝗨𝗣', url='https://t.me/onlymovies76'),
+                    InlineKeyboardButton('𝗢𝗡𝗪𝗘𝗥', url='https://t.me/Jackbro007'),
+                    InlineKeyboardButton('𝗖𝗛𝗔𝗡𝗡𝗘𝗟', url='https://t.me/onlyseries76')
                 ],
                 [
                     InlineKeyboardButton('❌️ 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 ❌️', url='https://telegra.ph/file/057ec425d174e8129826e.jpg')
