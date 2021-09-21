@@ -1,6 +1,6 @@
 # VideoCompress
 
-A Telegram Video Compressor Bot By [𝗠𝗛𝗗 𝗧𝗛𝗔𝗡𝗭𝗘𝗘𝗥](https://t.me/mhd_thanzeer). **This bot works for all!** No need to define each user IDs to use bot. Also works in Group.
+A Telegram Video Compressor Bot By [JACKBRO ](https://t.me/JackBro007). **This bot works for all!** No need to define each user IDs to use bot. Also works in Group.
 
 ### Special Features:
 - Bot's Live Status on Channel
