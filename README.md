@@ -12,21 +12,21 @@ A Telegram Video Compressor Bot By [𝗠𝗛𝗗 𝗧𝗛𝗔𝗡𝗭𝗘𝗘�
 
 * If you need more help to Deploy Feel Free to ask in [Support Group](https://t.me/wolfpackmedia).
 
-### 𝗠𝗛𝗗 𝗧𝗛𝗔𝗡𝗭𝗘𝗘𝗥:
-<a href="https://t.me/mhd_thanzeer"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
+### JACKBRO:
+<a href="https://t.me/Jackbro007"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
 
 ### Movies:
-<a href="https://t.me/wolfpackmedia"><img src="https://img.shields.io/badge/Demo-Bot%20Logs%20Channel-blue.svg?logo=telegram"></a>
+<a href="https://t.me/onlymovie76"><img src="https://img.shields.io/badge/Demo-Bot%20Logs%20Channel-blue.svg?logo=telegram"></a>
 
 ## Easy Deploy:
 <p><a href="https://heroku.com/deploy"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
 #### Video Tutorial:
-<a href="https://t.me/mhd_thanzeer"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a>
-<a href="https://t.me/mhd_thanzeer"><img src="https://img.shields.io/youtube/views/lb-JJLqyww4?style=social">
+<a href="https://t.me/Jackbro007"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a>
+<a href="https://t.me/Jackbro007"><img src="https://img.shields.io/youtube/views/lb-JJLqyww4?style=social">
 
 ### Support Group:
-<a href="https://t.me/mhd_thanzeer"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/Jackbro007"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ## Required Configs:
 * `SESSION_NAME` - Any name of session. Better keep default.
@@ -66,6 +66,5 @@ exec - EXEC 🙄
 ```
 
 ### Credits:
-* [𝗠𝗛𝗗 𝗧𝗛𝗔𝗡𝗭𝗘𝗘𝗥](https://t.me/mhd_thanzeer)
-* [𝗠𝗛𝗗 𝗧𝗛𝗔𝗡𝗭𝗘𝗘𝗥](https://t.me/mhd_thanzeer)
-* [𝗠𝗛𝗗 𝗧𝗛𝗔𝗡𝗭𝗘𝗘𝗥](https://t.me/mhd_thanzeer)
+😅 ALBERT EINSTEIN TG
+🔥 mE😶
